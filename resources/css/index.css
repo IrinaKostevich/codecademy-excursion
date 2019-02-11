@@ -1,8 +1,8 @@
 html {
     background-color: black;
-    color: white;
     font-family: Verdana;
     text-align: center;
+    color: white;
 }
 
 h1 {
@@ -16,8 +16,8 @@ h2 {
 }
 
 p {
-    color: gray;
     font-size: 21px;
+    color: gray;
 }
 
 footer p {
